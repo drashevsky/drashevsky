@@ -1,6 +1,6 @@
-### Daniel Rashevsky
+### Hello 👋 and welcome to my page!
 
-Hello 👋 and welcome to my page! My name is Daniel, and I'm a software engineer interested in systems programming (Rust, C, etc.)
+My name is Daniel, and I'm a software engineer interested in systems programming (Rust, C, etc.)
 
 I am a generalist and visual learner. I like to spend my time tinkering with computers, reading nonfiction that's written like fiction, playing Go ([Baduk](https://www.learn-go.net/)), building crazy IRL contraptions / GitHub projects, stumbling around the Greater Seattle urban area, lurking on [HN](https://news.ycombinator.com), etc, etc.
 
